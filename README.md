@@ -8,9 +8,9 @@ Currently, I am delving into the fascinating realms of machine learning, natural
 - 😄 Pronouns: he/him.
 
 ## Interests:
-💡**Machine Learning:** Unraveling the mysteries of data through algorithms and models.
-💡**Web Development:** Crafting immersive and user-friendly web experiences.
-💡**App Development:** Building mobile applications that make an impact.
+- 💡**Machine Learning:** Unraveling the mysteries of data through algorithms and models.
+- 💡**Web Development:** Crafting immersive and user-friendly web experiences.
+- 💡**App Development:** Building mobile applications that make an impact.
 
 I'm always open to discussions, mentorship, or just a friendly chat about the exciting world of AI! 🤖🚀
 Feel free to reach out to me for collaboration or just to say hi! 😊
