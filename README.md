@@ -1,5 +1,5 @@
 # Welcome to My GitHub Profile! 👋
-Hello there! I'm Ishan Ray Chaudhuri, a first-year student at Techno India University pursuing a BTech in Computer Science and Engineering with a specialization in Artificial Intelligence. 🚀 🌱
+Hello there! I'm Ishan Ray Chaudhuri, a second-year student at Techno India University pursuing a BTech in Computer Science and Engineering with a specialization in Artificial Intelligence. 🚀 🌱
 Currently, I am delving into the fascinating realms of machine learning, natural language processing, and computer vision. My goal is to contribute to cutting-edge projects that not only challenge me but also make a positive impact on the world.
 
 ## About Me:
